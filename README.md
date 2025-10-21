@@ -25,13 +25,3 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 </div>
-
-## 📫 **Контакты**
-
-<div align="center">
-
-[![Telegram](https://img.shields.io/badge/Telegram-@Adams_095-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Adams_095)
-[![Gmail](https://img.shields.io/badge/Email-akuev2005@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akuev2005@gmail.com)
-[![Location](https://img.shields.io/badge/📍_Ростов_на_Дону,_Россия-0088CC?style=for-the-badge&logo=map&logoColor=white)]()
-
-</div>

@@ -1,5 +1,9 @@
 # 👋 Привет! Меня зовут Адам Акуев
 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ваш-аккаунт)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ваш-аккаунт)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://ваше-портфолио.here)
+
 **Java Developer | Microservices | Spring Ecosystem**
 
 *Создаю современные бэкенд-решения с использованием микросервисной архитектуры*

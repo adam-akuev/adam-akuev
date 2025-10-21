@@ -1,9 +1,5 @@
 # 👋 Привет! Меня зовут Адам Акуев
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ваш-аккаунт)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ваш-аккаунт)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://ваше-портфолио.here)
-
 **Java Developer | Microservices | Spring Ecosystem**
 
 *Создаю современные бэкенд-решения с использованием микросервисной архитектуры*
@@ -31,11 +27,8 @@ https://github-readme-stats.vercel.app/api?username=admin-aluev&show_icons=true&
 📫 Контакты
 <div align="center">
   
-📱 Telegram	@Adams_095
-
-📧 Email	akuev2005@mail.ru
-
-💼 GitHub	adam-akuev
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Adams_095)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akuev2005@mail.ru)
 
 📍 Локация	Россия, Ростов-на-Дону (MSK)
 </div>

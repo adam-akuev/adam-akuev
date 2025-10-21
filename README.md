@@ -6,7 +6,7 @@
 *   **Язык:** Java
 *   **Фреймворки:** Spring Boot, Spring Cloud, Spring Data
 *   **Базы данных:** PostgreSQL
-*   **Инструменты:** Docker, Maven, Git, RabbitMQ, Redis
+*   **Инструменты:** Docker, Maven, Git, Kafka, Redis
 *   **Изучаю:** Kubernetes
 
 ### 🚀 Мой ключевой проект
@@ -20,7 +20,7 @@
 
 ### 📈 Моя активность
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=admin-aluev&theme=dark)](https://git.io/streak-stats)
+[[![GitHub Streak](https://streak-stats.demolab.com/?user=admin-aluev&theme=dark)](https://git.io/streak-stats)](https://streak-stats.demolab.com/?user=admin-aluev&theme=dark)
 
 ### 📫 Как со мной связаться
 *   Telegram: @Adams_095

@@ -20,7 +20,7 @@
 
 ### 📈 Моя активность
 
-[[![GitHub Streak](https://streak-stats.demolab.com/?user=admin-aluev&theme=dark)](https://git.io/streak-stats)](https://streak-stats.demolab.com/?user=admin-aluev&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=admin-aluev&theme=dark)](https://git.io/streak-stats)
 
 ### 📫 Как со мной связаться
 *   Telegram: @Adams_095

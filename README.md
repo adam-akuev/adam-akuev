@@ -28,14 +28,6 @@
 
 ---
 
-## 📊 **Активность GitHub**
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/Основной_язык-Java-ED8B00?style=for-the-flat&logo=java&logoColor=white)
-![Commits](https://img.shields.io/badge/Активный_разработчик-✅-green?style=for-the-flat)
-![Projects](https://img.shields.io/badge/Микросервисы-Spring_Cloud-6DB33F?style=for-the-flat)
-
 **🚀 Работаю над сложными бэкенд-системами**
 
 </div>

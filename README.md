@@ -26,26 +26,9 @@
 
 </div>
 
-# 📊 GitHub Analytics
+## **💻 Основные инструменты**
 
-<div align="center">
-
-## **📈 Core Metrics**
-
-| Metric | Value | Progress |
-|--------|-------|----------|
-| **Total Commits** | 792+ | ██████████ |
-| **Pull Requests** | 14 | ███████▊ |
-| **Issues** | 30 | █████████▌ |
-| **Contributions** | 8 | █████▊ |
-
----
-
-## **💻 Technology Distribution**
-
-```mermaid
-graph LR
-A[Java 65%] --> B[Backend]
-C[Spring 20%] --> B
-D[SQL 10%] --> E[Database]
-F[Docker 5%] --> G[DevOps]
+![Java](https://img.shields.io/badge/Java-65%25-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-20%25-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-10%25-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-5%25-2496ED?style=for-the-badge&logo=docker&logoColor=white)

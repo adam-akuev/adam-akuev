@@ -25,11 +25,3 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 </div>
-
-## **💻 Основные инструменты**
-
-```java
-Java        ████████████████████████ 65.25%
-Spring      ████████████ 20.45%  
-SQL         ██████ 9.80%
-Docker      ██ 4.50%

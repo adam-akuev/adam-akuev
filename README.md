@@ -26,60 +26,26 @@
 
 </div>
 
-# Adam Akuev's GitHub Stats
+# 📊 GitHub Analytics
 
-- **Total Stars Earned:** 25+  
-- **Total Commits:** 792  
-- **Total PRs:** 14  
-- **Total Issues:** 30  
-- **Contributed to (last year):** 8  
+<div align="center">
 
----
+## **📈 Core Metrics**
 
-## Most Used Languages
-
-- Java 65.25%  
-- Spring 20.45%  
-- SQL 9.80%  
-- Docker 4.50%  
+| Metric | Value | Progress |
+|--------|-------|----------|
+| **Total Commits** | 792+ | ██████████ |
+| **Pull Requests** | 14 | ███████▊ |
+| **Issues** | 30 | █████████▌ |
+| **Contributions** | 8 | █████▊ |
 
 ---
 
-### MultiLanguage
-- **Backend Language User** 95pt  
-- **Commits**  
-- **Ultra Committer** 87pt  
-- **Issues**  
-- **High Issuer** 82pt  
-- **Repositories**  
-- **High Repo Creator** 78pt  
-- **Active Reviews** 75pt  
-- **Experience**  
-- **Advanced Dev** 85pt  
-- **PullRequest**  
-- **Middle-Puller** 70pt  
-- **Followers**  
-- **First Friend** 65pt  
-- **Stars**  
-- **Rising Star** 25pt  
+## **💻 Technology Distribution**
 
----
-
-### 867  
-**Total Contributions**  
-2023 Jan 15 - Present  
-
----
-
-### Current Streak  
-15 days  
-
----
-
-### 22  
-**Longest Streak**  
-2024 Dec 24 - Jan 14  
-
----
-
-### Adam Akuev's Contribution Graph
+```mermaid
+graph LR
+A[Java 65%] --> B[Backend]
+C[Spring 20%] --> B
+D[SQL 10%] --> E[Database]
+F[Docker 5%] --> G[DevOps]

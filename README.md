@@ -1,43 +1,37 @@
-# Адам Акуев  
-**admin-aluev - Java Developer**
+# 👋 Привет! Меня зовут Адам Акуев
 
-- **Follow**  
-  [ ] Sponsor  
+**Java Developer | Microservices | Spring Ecosystem**
 
-- github.com/admin-aluev  
-  [ ] Backend Dev  
-  [x] Always learning!  
-  [x] Microservices & Spring  
-  [x] Passionate Coder  
+*Создаю современные бэкенд-решения с использованием микросервисной архитектуры*
 
 ---
 
-## Адам Акуев  
-**Java Backend Developer**
+## 🛠 Технологический стек
 
-- **TECH STACK**  
-  [x] JAVA  
-  [x] SPRING  
-  [x] DOCKER  
-  [x] POSTGRES  
-  [x] KAFKA  
-  [x] REDIS  
-  [x] KUBERNETES  
+| **Категория** | **Технологии** |
+|---------------|----------------|
+| **Backend** | `Java` `Spring Boot` `Spring Cloud` `Spring Data` |
+| **Базы данных** | `PostgreSQL` `Redis` |
+| **Message Brokers** | `Kafka` `RabbitMQ` |
+| **Инфраструктура** | `Docker` `Docker Compose` `Maven` `Git` |
+| **Изучаю** | `Kubernetes` |
 
 ---
 
-## Статистика
+📊 Активность на GitHub
+<div align="center">
+https://streak-stats.demolab.com/?user=admin-aluev&theme=dark&hide_border=true
+https://github-readme-stats.vercel.app/api?username=admin-aluev&show_icons=true&theme=dark&hide_border=true
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=admin-aluev&show_icons=true&theme=dark&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=admin-aluev&theme=dark&hide_border=true)
+</div>
+📫 Контакты
+<div align="center">
+  
+📱 Telegram	@Adams_095
 
----
+📧 Email	akuev2005@mail.ru
 
-### Контакты
-- **Telegram**: @Adams_095  
-- **Email**: akuev2005@mail.ru  
-- **GitHub**: admin-aluev  
+💼 GitHub	adam-akuev
 
----
-
-[OPEN FOR INTERNSHIP OPPORTUNITIES]
+📍 Локация	Россия, Ростов-на-Дону (MSK)
+</div>

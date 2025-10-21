@@ -28,15 +28,15 @@
 
 ---
 
-## 📊 **Статистика GitHub**
+## 📊 **Активность GitHub**
 
 <div align="center">
 
-![Streak Stats](https://streak-stats.demolab.com/?user=admin-aluev&theme=dark&hide_border=true)
+![Java](https://img.shields.io/badge/Основной_язык-Java-ED8B00?style=for-the-flat&logo=java&logoColor=white)
+![Commits](https://img.shields.io/badge/Активный_разработчик-✅-green?style=for-the-flat)
+![Projects](https://img.shields.io/badge/Микросервисы-Spring_Cloud-6DB33F?style=for-the-flat)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=admin-aluev&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=admin-aluev&layout=compact&theme=dark&hide_border=true)
+**🚀 Работаю над сложными бэкенд-системами**
 
 </div>
 
@@ -46,9 +46,8 @@
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Adams_095)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akuev2005@gmail.com)
-[![Location](https://img.shields.io/badge/📍_Россия,_Ростов--на--Дону_(MSK)-0088CC?style=for-the-badge&logo=map&logoColor=white)]()
+[![Telegram](https://img.shields.io/badge/Telegram-@Adams_095-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Adams_095)
+[![Gmail](https://img.shields.io/badge/Email-akuev2005@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akuev2005@gmail.com)
+[![Location](https://img.shields.io/badge/📍_Ростов_на_Дону,_Россия-0088CC?style=for-the-badge&logo=map&logoColor=white)]()
 
 </div>
-}

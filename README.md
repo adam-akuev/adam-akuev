@@ -28,7 +28,7 @@ https://github-readme-stats.vercel.app/api?username=admin-aluev&show_icons=true&
 <div align="center">
   
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Adams_095)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akuev2005@mail.ru)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akuev2005@gmail.com)
 
 📍 Локация	Россия, Ростов-на-Дону (MSK)
 </div>

@@ -25,3 +25,47 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 </div>
+
+# 📊 Adam Akuev's GitHub Stats
+
+<div align="center">
+
+## **📈 Основная статистика**
+
+- **🔄 Всего коммитов:** 792+  
+- **🔀 Pull Requests:** 14  
+- **🐛 Issues создано:** 30  
+- **🤝 Контрибьюций в проекты:** 8  
+- **⭐ Всего звезд:** 25+
+
+---
+
+## **💻 Основные языки**
+
+![Java](https://img.shields.io/badge/Java-65%25-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-20%25-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-10%25-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-5%25-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## **🏆 Достижения**
+
+<div>
+
+**🚀 MultiLanguage Developer**  
+**⭐ Microservices Expert**  
+**📦 Backend Architect**  
+**🔧 Spring Framework Pro**  
+**🐳 Containerization Enthusiast**
+
+</div>
+
+---
+
+## **📅 Активность**
+
+```bash
+🔥 Current Streak: 15 дней
+📅 Longest Streak: 22 дня (Dec 24 - Jan 14)
+📊 Total Contributions: 867+

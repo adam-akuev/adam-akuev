@@ -28,7 +28,8 @@
 
 ## **💻 Основные инструменты**
 
-![Java](https://img.shields.io/badge/Java-65%25-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-20%25-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-10%25-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-5%25-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+```java
+Java        ████████████████████████ 65.25%
+Spring      ████████████ 20.45%  
+SQL         ██████ 9.80%
+Docker      ██ 4.50%

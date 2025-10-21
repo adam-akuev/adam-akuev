@@ -21,7 +21,7 @@
 📊 Активность на GitHub
 <div align="center">
 https://streak-stats.demolab.com/?user=admin-aluev&theme=dark&hide_border=true
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akuev2005@gmail.com)
+[![Email](https://img.shields.io/badge/Email-akuev2005@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akuev2005@gmail.com)
 
 </div>
 📫 Контакты

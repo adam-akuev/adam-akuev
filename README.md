@@ -26,46 +26,60 @@
 
 </div>
 
-# 📊 Adam Akuev's GitHub Stats
+# Adam Akuev's GitHub Stats
 
-<div align="center">
-
-## **📈 Основная статистика**
-
-- **🔄 Всего коммитов:** 792+  
-- **🔀 Pull Requests:** 14  
-- **🐛 Issues создано:** 30  
-- **🤝 Контрибьюций в проекты:** 8  
-- **⭐ Всего звезд:** 25+
+- **Total Stars Earned:** 25+  
+- **Total Commits:** 792  
+- **Total PRs:** 14  
+- **Total Issues:** 30  
+- **Contributed to (last year):** 8  
 
 ---
 
-## **💻 Основные языки**
+## Most Used Languages
 
-![Java](https://img.shields.io/badge/Java-65%25-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-20%25-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-10%25-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-5%25-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-## **🏆 Достижения**
-
-<div>
-
-**🚀 MultiLanguage Developer**  
-**⭐ Microservices Expert**  
-**📦 Backend Architect**  
-**🔧 Spring Framework Pro**  
-**🐳 Containerization Enthusiast**
-
-</div>
+- Java 65.25%  
+- Spring 20.45%  
+- SQL 9.80%  
+- Docker 4.50%  
 
 ---
 
-## **📅 Активность**
+### MultiLanguage
+- **Backend Language User** 95pt  
+- **Commits**  
+- **Ultra Committer** 87pt  
+- **Issues**  
+- **High Issuer** 82pt  
+- **Repositories**  
+- **High Repo Creator** 78pt  
+- **Active Reviews** 75pt  
+- **Experience**  
+- **Advanced Dev** 85pt  
+- **PullRequest**  
+- **Middle-Puller** 70pt  
+- **Followers**  
+- **First Friend** 65pt  
+- **Stars**  
+- **Rising Star** 25pt  
 
-```bash
-🔥 Current Streak: 15 дней
-📅 Longest Streak: 22 дня (Dec 24 - Jan 14)
-📊 Total Contributions: 867+
+---
+
+### 867  
+**Total Contributions**  
+2023 Jan 15 - Present  
+
+---
+
+### Current Streak  
+15 days  
+
+---
+
+### 22  
+**Longest Streak**  
+2024 Dec 24 - Jan 14  
+
+---
+
+### Adam Akuev's Contribution Graph
